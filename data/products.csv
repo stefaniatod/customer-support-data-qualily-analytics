@@ -1,0 +1,21 @@
+product_id,product_name,product_category,price
+P001,Product A,Software,543.07
+P002,Product B,Software,108.42
+P003,Product C,Home,256.53
+P004,Product D,Home,604.66
+P005,Product E,Accessories,369.72
+P006,Product F,Accessories,389.89
+P007,Product G,Electronics,721.17
+P008,Product H,Accessories,885.37
+P009,Product I,Home,516.26
+P010,Product J,Electronics,88.58
+P011,Product K,Accessories,109.55
+P012,Product L,Electronics,871.28
+P013,Product M,Electronics,616.73
+P014,Product N,Home,681.17
+P015,Product O,Home,613.67
+P016,Product P,Electronics,177.06
+P017,Product Q,Electronics,413.56
+P018,Product R,Home,721.31
+P019,Product S,Electronics,781.4
+P020,Product T,Electronics,227.86
